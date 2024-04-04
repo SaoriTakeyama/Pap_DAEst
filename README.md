@@ -4,7 +4,7 @@ This is MATLAB implementation of a dye amount estimation method for quantitative
 ## Requirement
 If you use this code, please cite the following paper:
 
-@inproceedings{CIC_Pap,
+@inproceedings{CIC_Pap, 
   title={Dye Amount Estimation in a Papanicolaou-stained specimen using Multispectral Imaging},  
   author={S. Takeyama and T. Watanabe and M. Yamaguchi and T. Urata and F. Kimura and K. Ishii},  
   booktitle={Color and Imaging Conference},  
